@@ -50,4 +50,4 @@ Input (32×32×3)
 
 ##  Note
 
-- Download the dataset from kaggle: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign.
+Download the dataset from kaggle: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign.
