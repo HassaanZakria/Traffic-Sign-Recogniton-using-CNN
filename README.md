@@ -46,7 +46,7 @@ Input (32×32×3)
 | Validation accuracy | ~97–99% |
 | Test accuracy | ~96–98% |
 
-```
+
 
 ##  Note
 
